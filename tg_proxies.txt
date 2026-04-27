@@ -64,3 +64,5 @@ tg://proxy?server=23.27.134.15&port=65365&secret=ee6b96a90543e55d4ea59e7e0ae9420
 tg://proxy?server=2.27.23.251&port=7777&secret=ee97c88e23d6902be6f5d2a85c2013539b7777772e7068696c6970732e636f6d
 tg://proxy?server=132.243.213.82&port=443&secret=eedc4c0d011c760314e99b81c1336a405a79616e6465782e7275
 tg://proxy?server=138.124.255.140&port=443&secret=ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275
+tg://proxy?server=proxy-v2-1.sapog-host.ru&port=443&secret=eee7c1f28dae18ff0400c602b2497a0eee6c69747265732e7275
+tg://proxy?server=proxy-v2-2.sapog-host.ru&port=443&secret=eebaa4487c1c78b358153f3ae62b35ee85656e65726779666d2e7275
